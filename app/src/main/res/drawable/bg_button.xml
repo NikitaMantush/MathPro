@@ -1,0 +1,8 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Состояние нажатия -->
+    <item android:drawable="@drawable/shape_button" android:state_pressed="true"/>
+    <!-- Состояние фокусировки -->
+    <item android:drawable="@drawable/shape_button" android:state_focused="true"/>
+    <!-- Состояние по умолчанию -->
+    <item android:drawable="@drawable/shape_button"/>
+</selector>
