@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DiscoverPlatformButton">
+        <item name="android:background">@drawable/shape_button</item>
+    </style>
+    <style name="App.TextInputLayout.HintText" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="android:paddingStart">10dp</item>
+    </style>
+    <style name="circular">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
